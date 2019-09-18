@@ -1,0 +1,15 @@
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\bin\MCD\Debug\netcoreapp3.0\MgNetcoreCsSample.exe
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\bin\MCD\Debug\netcoreapp3.0\MgNetcoreCsSample.deps.json
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\bin\MCD\Debug\netcoreapp3.0\MgNetcoreCsSample.runtimeconfig.json
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\bin\MCD\Debug\netcoreapp3.0\MgNetcoreCsSample.runtimeconfig.dev.json
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\bin\MCD\Debug\netcoreapp3.0\MgNetcoreCsSample.dll
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\bin\MCD\Debug\netcoreapp3.0\MgNetcoreCsSample.pdb
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\obj\MCD\Debug\netcoreapp3.0\MgNetcoreCsSample.csprojAssemblyReference.cache
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\obj\MCD\Debug\netcoreapp3.0\MgNetcoreCsSample.AssemblyInfoInputs.cache
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\obj\MCD\Debug\netcoreapp3.0\MgNetcoreCsSample.AssemblyInfo.cs
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\obj\MCD\Debug\netcoreapp3.0\MgNetcoreCsSample.dll
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\obj\MCD\Debug\netcoreapp3.0\MgNetcoreCsSample.pdb
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\bin\MCD\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\bin\MCD\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\bin\MCD\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\obj\MCD\Debug\netcoreapp3.0\MgNetcoreCsSample.csproj.CopyComplete

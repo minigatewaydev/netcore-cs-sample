@@ -1,0 +1,10 @@
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\bin\MCD\Debug\netcoreapp2.2\MgNetcoreCsSample.deps.json
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\bin\MCD\Debug\netcoreapp2.2\MgNetcoreCsSample.runtimeconfig.json
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\bin\MCD\Debug\netcoreapp2.2\MgNetcoreCsSample.runtimeconfig.dev.json
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\bin\MCD\Debug\netcoreapp2.2\MgNetcoreCsSample.dll
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\bin\MCD\Debug\netcoreapp2.2\MgNetcoreCsSample.pdb
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\obj\MCD\Debug\netcoreapp2.2\MgNetcoreCsSample.csprojAssemblyReference.cache
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\obj\MCD\Debug\netcoreapp2.2\MgNetcoreCsSample.AssemblyInfoInputs.cache
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\obj\MCD\Debug\netcoreapp2.2\MgNetcoreCsSample.AssemblyInfo.cs
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\obj\MCD\Debug\netcoreapp2.2\MgNetcoreCsSample.dll
+C:\Users\nazif\source\repos\Minigateway V2 Project\Samples\MgNetcoreCsSample\obj\MCD\Debug\netcoreapp2.2\MgNetcoreCsSample.pdb

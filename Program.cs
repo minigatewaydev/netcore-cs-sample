@@ -30,14 +30,14 @@ namespace MgNetcoreCsSample
 
             MtRequest request = new MtRequest
             {
-                Username = "httppostpaid",
-                Password = "123456",
+                Username = "YOUR_USERNAME",
+                Password = "YOUR_PASSWORD",
                 From = ".NET Sample",
                 To = "60123456789",
                 Text = ".NETCore (C#) sample using HTTP POST & GET",
                 Coding = "1",
                 DlrMask = "0",
-                DlrUrl = "<YOUR-DLR-URL>",
+                DlrUrl = "YOUR_DLR_URL",
                 ResponseType = "json"
             };
 

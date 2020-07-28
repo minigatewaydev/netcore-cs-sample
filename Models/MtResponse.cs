@@ -8,8 +8,10 @@ namespace MgNetcoreCsSample.Models
     {
         public string Username { get; set; }
         public string ChargingPlan { get; set; }
+        public bool IsSuccess { get; set; }
         public string Message { get; set; }
         public int CreditDeducted { get; set; }
+        public MtInfo Submitted { get; set; }
         public List<Mt> MtList { get; set; }
     }
 }

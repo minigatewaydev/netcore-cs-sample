@@ -10,6 +10,8 @@ This project uses the following library:
 
 ## Running sample in VSC
 Do the following:
+- Download as ZIP and extract
+- In VSC, File > Open Folder
 - Make sure to change the required information in <code>Program.cs</code> file
 - Terminal > New Terminal
 - type <b><code>dotnet restore</code></b> to restore all nuget package
